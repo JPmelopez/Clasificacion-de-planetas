@@ -1,0 +1,16 @@
+Esquema de trabajo
+
+cuerpos_celestes_app/
+│
+├── static/
+│   └── styles.css
+│
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── resultados.html
+│   └── elementos.html
+│
+├── dataset_cuerpos_celestes.csv
+├── app.py
+└── model.py
